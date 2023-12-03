@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dia1", "AdventOfCode2023\Dia1.csproj", "{12B9D124-1DA0-4A26-9662-DE6E4BF8B939}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dia1", "AdventOfCode2023\Dia1.csproj", "{12B9D124-1DA0-4A26-9662-DE6E4BF8B939}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dia2", "Dia2\Dia2.csproj", "{1C89CE66-3B17-410B-9383-27588C87863F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{12B9D124-1DA0-4A26-9662-DE6E4BF8B939}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12B9D124-1DA0-4A26-9662-DE6E4BF8B939}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12B9D124-1DA0-4A26-9662-DE6E4BF8B939}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C89CE66-3B17-410B-9383-27588C87863F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C89CE66-3B17-410B-9383-27588C87863F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C89CE66-3B17-410B-9383-27588C87863F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C89CE66-3B17-410B-9383-27588C87863F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

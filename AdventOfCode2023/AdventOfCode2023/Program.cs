@@ -26,7 +26,7 @@ try
             .Replace("seven", "sev7en")
             .Replace("eight", "ei8ght")
             .Replace("nine", "ni9ne");
-        string invertido = new string(newLine.Reverse().ToArray());
+        string invertido = new String(newLine.Reverse().ToArray());
 
         foreach (var letra in newLine)
         {
